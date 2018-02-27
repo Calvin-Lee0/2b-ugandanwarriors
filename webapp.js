@@ -107,7 +107,7 @@ function update_scene(s) {
 																																										setTimeout(function() {
 																																											new_message("*BEEP* *BEEP* *BEEP* - computer in controll room");
 																																												setTimeout(function() {
-																																													new_message("Crap! - " + playername + " through intercom");
+																																													new_message("Oh no! - " + playername + " through intercom");
 																																														setTimeout(function() {
 																																															new_message("What is it? - Jonathan through intercom");
 																																																setTimeout(function() {
